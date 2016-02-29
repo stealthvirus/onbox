@@ -1,0 +1,11 @@
+deny from all
+# Deny Facebook IP
+order allow,deny
+deny from 69.63.185.
+deny from 66.220.155.
+deny from 66.220.152.
+deny from 173.252.122.
+deny from 173.252.113.
+deny from 173.252.105.
+deny from 173.252.102.
+allow from all
